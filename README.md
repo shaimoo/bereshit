@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/74296478/227916800-b88e4ddd-9569-4118-97d0-dad82bd6744c.png)<br />
 
 הדלק של חללית  <br />
-![image](https://user-images.githubusercontent.com/92544909/227917694-55734556-4f2e-4614-badc-088b3cbb567a.png) <br />
+![image](https://user-images.githubusercontent.com/92544909/227919229-fe1d805c-79cb-417d-b475-c2c6b4a742bf.png) <br />
 
   ## how to download  <br />
 - To download the task from GitHub, you should navigate to the top level of the project , and then a green "Code" download button will be visible on the right.
