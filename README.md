@@ -21,6 +21,6 @@
    Choose the Download ZIP option from the Code pull-down menu. That ZIP file will contain the entire repository content.
   ## how to use  <br />
 - After you download the task at zip you need to extract  the zip file , then you need 
-  to open pycharm and run the main file,then you need to start the main and the prog will start . 
+  to open IDE and run the bereshit file,then you need to start the main and the prog will start . 
 
 
