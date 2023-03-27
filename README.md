@@ -11,8 +11,16 @@
 ![image](https://user-images.githubusercontent.com/92544909/227914647-07a50e24-9422-4715-9714-4fd1e5d06194.png) <br />
 
 מהירות אנכית של חללית  <br />
-![image](https://user-images.githubusercontent.com/74296478/227916800-b88e4ddd-9569-4118-97d0-dad82bd6744c.png)
+![image](https://user-images.githubusercontent.com/74296478/227916800-b88e4ddd-9569-4118-97d0-dad82bd6744c.png)<br />
 
+הדלק של חללית  <br />
+![image](https://user-images.githubusercontent.com/92544909/227917694-55734556-4f2e-4614-badc-088b3cbb567a.png) <br />
 
+  ## how to download  <br />
+- To download the task from GitHub, you should navigate to the top level of the project , and then a green "Code" download button will be visible on the right.
+   Choose the Download ZIP option from the Code pull-down menu. That ZIP file will contain the entire repository content.
+  ## how to use  <br />
+- After you download the task at zip you need to extract  the zip file , then you need 
+  to open pycharm and run the main file,then you need to start the main and the prog will start . 
 
 
