@@ -11,6 +11,9 @@
 ![image](https://user-images.githubusercontent.com/92544909/227914647-07a50e24-9422-4715-9714-4fd1e5d06194.png) <br />
 מהירות אנכית של החללית <br />
 
+מהירות אנכית של חללית  <br />
+![image](https://user-images.githubusercontent.com/74296478/227916800-b88e4ddd-9569-4118-97d0-dad82bd6744c.png)
+
 
 
 
